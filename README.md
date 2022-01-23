@@ -1,3 +1,3 @@
 # LeetCode
-## Keep recording
-## Keep coding
+## Keep recording and coding
+
