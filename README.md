@@ -1,2 +1,3 @@
 # LeetCode
-Keeping record
+## Keep recording
+## Keep coding
